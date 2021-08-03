@@ -3,6 +3,7 @@ package com.company;
 public class Novela extends Texto{
     String generoNovela;
     int cantidadLibros;
+    String textoGitDiff ="ingreso un texto para ver con diff";
 
     public Novela(String titulo, String autor, String descripcion, int cantidadPaginas, String generoNovela, int cantidadLibros) {
         super(titulo, autor, descripcion, cantidadPaginas);
