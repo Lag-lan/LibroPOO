@@ -1,5 +1,7 @@
 package com.company;
 
 public class PruebaNuevaRama {
-  System.out.println("texto desde github");
+
+  String textoGithub = " Texto a mostrar en github como cambio realizado";
+
 }
